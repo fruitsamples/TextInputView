@@ -1,7 +1,7 @@
 /*
      File: FadingTextView.h
  Abstract: A view that implements NSTextInputClient by using the Cocoa text system objects NSTextStorage, NSLayoutManager, and NSTextContainer. The view centers and displays any typed text. When the user enters a newline, the text fades out, leaving an empty field. The view also handles marked text, such as the acute accent that appears when typing the character "é" (option-e, then e). Marked characters are displayed in gray.
-  Version: 1.1
+  Version: 1.2
  
  Disclaimer: IMPORTANT:  This Apple software is supplied to you by Apple
  Inc. ("Apple") in consideration of your agreement to the following
@@ -41,7 +41,7 @@
  STRICT LIABILITY OR OTHERWISE, EVEN IF APPLE HAS BEEN ADVISED OF THE
  POSSIBILITY OF SUCH DAMAGE.
  
- Copyright (C) 2011 Apple Inc. All Rights Reserved.
+ Copyright (C) 2012 Apple Inc. All Rights Reserved.
  
  */
 
